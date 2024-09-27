@@ -98,13 +98,13 @@ img.li {
 #nav li a {
 	display: block;
 	margin-top: -15px;
-	padding: 0 0; 
+	padding: 0px 54px; 
 	text-decoration: none;
 	font-weight: bold;
-/*	color: #535b89; */
+	color: #535b89;
 	color: red;
 /*	border-right: 12px solid #fff; */
-  border: 1px solid #fff; 
+/*  border: 1px solid #fff; */
 	font-size: 110%;
 }
 
