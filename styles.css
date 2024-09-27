@@ -86,8 +86,8 @@ img.li {
 	list-style: none;
 /*	font-family: Arial,Helvetica,Courier; */
 	font-family: "MyGaramondFont", 'Muli', sans-serif, "Verdana", Bookman, Myriad Pro, Helvetica; 
-/*	background-color: #f2f2f2;
-	font-size: 90%; */
+	background-color: #f2f2f2;
+/*	font-size: 90%; */ 
 	font-size: 110%;
 }
 
