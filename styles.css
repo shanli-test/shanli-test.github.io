@@ -97,6 +97,7 @@ img.li {
 
 #nav li a {
 	display: block;
+	background-color: red;
 	margin-top: -15px;
 	padding: 0px 54px; 
 	text-decoration: none;
